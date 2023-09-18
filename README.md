@@ -22,12 +22,12 @@ Have Assumed 700px width for mobile device so that we don't have to scroll too m
 
 ### Screenshot
 
-![](./final-look_screenshot.jpg)
+(./final-look_screenshot.jpg)
 
 ### Links
 
-- Solution URL: [GitHub link](https://github.com/kartiksubaiah/Results-Summary_Fontendmentor.io)
-- Live Site URL: [GitHub Link]()
+- Solution URL: [GitHub link](https://github.com/kartiksubaiah/Results-Summary_Fontendmentor.io/)
+- Live Site URL: [GitHub Link](https://kartiksubaiah.github.io/Results-Summary_Fontendmentor.io/)
 
 ### Built with
 
